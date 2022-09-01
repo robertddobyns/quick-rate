@@ -26,5 +26,20 @@
     "finished": false,
     "rating": 2,
     "review": false
+  },
+  {
+    "id": 5,
+    "name" : "Scare Me",
+    "finished": true,
+    "rating": 2,
+    "review": false
+  },
+  {
+    "id": 6,
+    "name" : "Horror High",
+    "finished": false,
+    "rating": 2,
+    "review": false
   }
+
 ]

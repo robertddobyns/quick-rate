@@ -73,15 +73,4 @@ function App() {
   );
 }
 
-function Movie(props) {
-
-  const {name, finished, rating} = props.movie
-
-  return (
-      <div>
-        {`${name} | ${finished} | ${rating}`}
-      </div>
-  )
-}
-
 export default App;
